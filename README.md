@@ -1,6 +1,6 @@
 ## 如何在WINDOWS运行COBOL代码呢？
 
-**本地运行**
+1、本地运行
 
 通过GNUCOBOL来模拟主机运行
 
@@ -39,9 +39,11 @@ cobc -x %*
 
 
 
-**在线运行**
+2、在线运行
 
 在线运行网站：https://www.tutorialspoint.com/compile_cobol_online.php
+
+
 
 ## 如何编译COBOL代码呢？
 
@@ -51,3 +53,8 @@ cobc -x %*
 cobc -x hello.cbl
 ```
 
+
+
+## 参考
+
+Youtube：https://www.youtube.com/watch?v=g4xZ9W11z10
